@@ -8,6 +8,6 @@
             <c:import url="_form.jsp" />
         </form>
 
-        <p><a href="${pageContext.request.contextPath}/index.jsp">タスク一覧に戻る</a></p>
+        <p><a href="${pageContext.request.contextPath}/index">タスク一覧に戻る</a></p>
     </c:param>
 </c:import>
